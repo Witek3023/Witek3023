@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Witek3023
+- 👀 I’m interested in many things, but ofc mainly coding.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on some projects?
+- 📫 Witek3023@gmial.com
