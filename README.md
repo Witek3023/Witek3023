@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Witek3023
-- 👀 I’m interested in many things, like unix-like systems, video montage, photography etc.
-- 🌱 I’m currently learning c++, what more.
-- 💞️ I’m cooperate in making messenger app with my team
+- 🐍 Python
+  🐧 Linux Fedora
 - 📫 Witek3023@gmail.com
