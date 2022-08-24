@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Witek3023
-- 🐍 c++
+- 🐍 Python
 - 🐧 Linux Fedora
 - 📷 Davinci resolve
 - 📫 Witek3023@gmail.com
