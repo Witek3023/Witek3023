@@ -20,7 +20,7 @@ HP elitebook G3
 <li>AMD A10
 <li>Radeon R6
 <li>16GB Ram DDR3
-<li>Linux Fedora 37
+<li>Linux Fedora 37</br>
 PC
 <li>Intel Core i7-10700KF
 <li>MSI Z490-A PRO
