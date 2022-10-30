@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Witek - aka Witek3023
 #### I'm learning Python Programming. I'm interested in photography and video editing.</br>
 ---
