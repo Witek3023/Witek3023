@@ -15,7 +15,6 @@ I'm learning Python Programming. I'm interested in photography and video editing
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)</br>
 From almost 2 years im learning Linux while using Fedora daily. But on my main pc I still have to use windows because of compability of photo and video processing programs. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)
 ### Hardware:
-Laptop:
 ##### HP elitebook G3
 <li>AMD A10
 <li>Radeon R6
