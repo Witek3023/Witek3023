@@ -21,6 +21,9 @@
 ---
 ### Hardware:
 #### HP elitebook G3:
+<ul class="col_ul">
+   <li>amd</li>
+</ul>
 <li>AMD A10
 <li>Radeon R6
 <li>16GB Ram DDR3
