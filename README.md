@@ -1,5 +1,5 @@
 # Hi there, I'm Witek - aka Witek3023
-I'm learning Python Programming. I am interested in photography and video editing
+I'm learning Python Programming. I'm interested in photography and video editing
 
 ### Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
