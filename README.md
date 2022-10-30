@@ -32,7 +32,7 @@ From almost 2 years im learning Linux while using Fedora daily. But on my main p
 <li>SilentiumPC Regnum RG6V TG Pure Black
 <li>TP-Link Archer T6E DualBand
 <li>LG 27GL850-B NanoIPS HDR10</br>
----
+---</br>
 ### Connect with me:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Witek3023)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Witek3023)
