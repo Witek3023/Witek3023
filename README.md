@@ -1,5 +1,5 @@
 # Hi there, I'm Witek - aka Witek3023
-I'm learning Python Programming. I'm interested in photography and video editing
+I'm learning Python Programming. I'm interested in photography and video editing.
 
 ### Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -13,7 +13,7 @@ I'm learning Python Programming. I'm interested in photography and video editing
 ### OS:
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)</br>
-From almost 2 years im learning Linux while using Fedora daily. But on my main pc I still have to use windows because of compability of photo and video processing programs. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
+Full-time Linux enjoyer. But on my main pc I still have to use windows because of compability of photo and video processing programs. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ### Hardware:
 #### HP elitebook G3:
 <li>AMD A10
