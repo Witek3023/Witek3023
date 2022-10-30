@@ -43,6 +43,7 @@
 <li>LG 27GL850-B NanoIPS HDR10</br>
 </p>
 </details>
+
 ---
 
 ### Connect with me:
