@@ -21,7 +21,7 @@
 ---
 ### Hardware:
 
-<details><summary>HP elitebook G3:</summary>
+<details><summary>HP elitebook G3</summary>
 <p>
 <li>AMD A10
 <li>Radeon R6
