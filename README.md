@@ -20,7 +20,7 @@ From almost 2 years im learning Linux while using Fedora daily. But on my main p
 <li>Radeon R6
 <li>16GB Ram DDR3
 <li>Linux Fedora 37</br>
-#### PC
+### PC
 <li>Intel Core i7-10700KF
 <li>MSI Z490-A PRO
 <li>Crucial 16GB (2x8GB) 3200MHz CL16 Ballistix Black
