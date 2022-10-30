@@ -20,7 +20,14 @@
 #### Full-time Linux enjoyer. But on my main pc I still have to use windows because of compability of photo and video processing programs. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
-#### HP elitebook G3:
+
+<details><summary>#### HP elitebook G3:</summary>
+<p>
+amd
+  rd
+</p>
+</details>
+
 <li>AMD A10
 <li>Radeon R6
 <li>16GB Ram DDR3
