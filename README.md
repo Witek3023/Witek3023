@@ -34,6 +34,7 @@
 <li>SilentiumPC Regnum RG6V TG Pure Black
 <li>TP-Link Archer T6E DualBand
 <li>LG 27GL850-B NanoIPS HDR10</br>
+
 ---
 
 ### Connect with me:
