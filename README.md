@@ -2,7 +2,7 @@
 
 # Hi there, I'm Witek - aka Witek3023
 #### Beginner Python Programmer/Python Data Analyst<br>
-I'm interested in photography and video editing.</br>
+###### I'm interested in photography and video editing.</br>
 ---
 ### Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
