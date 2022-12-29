@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Witek - aka Witek3023 [![Codewars](https://www.codewars.com/users/Witek3023/badges/micro)]
+# Hi there, I'm Witek - aka Witek3023 [![Codewars](https://www.codewars.com/users/Witek3023/badges/micro)(https://www.codewars.com/users/Witek3023/badges)]
 #### Beginner Python Programmer/Python Data Analyst<br>
 ###### Photographer and Video Editor.</br>
 ---
