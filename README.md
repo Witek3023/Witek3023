@@ -24,7 +24,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
 </br>
-#### Full-time Linux enjoyer. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
+#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with Gnome 43, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
 
