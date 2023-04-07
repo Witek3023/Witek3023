@@ -12,7 +12,7 @@
 
 ### Tools:
 [![GitHub](https://img.shields.io/badge/github-04471c.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=white)](https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=04471c)](https://www.jetbrains.com/pycharm/)
 ![Jupyter](https://img.shields.io/badge/Jupyter-04471c.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-04471c.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-04471c.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chrome/)
