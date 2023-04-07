@@ -30,24 +30,25 @@
 
 <details><summary>HP elitebook G3</summary>
 <p>
-<li>AMD A10
-<li>Radeon R6
-<li>16GB Ram DDR3
-<li>Linux Fedora 37
+•AMD A10 <br>
+•Radeon R6 <br>
+•16GB Ram DDR3 <br>
+•Linux Fedora 37 <br>
 </p>
 </details>
 
 <details><summary>PC</summary>
 <p>
-<li>Intel Core i7-10700KF
-<li>MSI Z490-A PRO
-<li>Crucial 16GB (2x8GB) 3200MHz CL16 Ballistix Black
-<li>Kingston 1TB M.2 PCIe NVMe A2000
-<li>Gigabyte Radeon RX 6600 XT GAMING OC 8GB GDDR6
-<li>SilentiumPC Fera 5 Dual Fan 2x120mm
-<li>SilentiumPC Regnum RG6V TG Pure Black
-<li>TP-Link Archer T6E DualBand
-<li>LG 27GL850-B NanoIPS HDR10</br>
+•Intel Core i7-10700KF <br>
+•MSI Z490-A PRO <br>
+•Crucial 16GB (2x8GB) 3200MHz CL16 Ballistix Black <br>
+•Kingston 1TB M.2 PCIe NVMe A2000 <br>
+•Gigabyte Radeon RX 6600 XT GAMING OC 8GB GDDR6 <br>
+•SilentiumPC Fera 5 Dual Fan 2x120mm <br>
+•SilentiumPC Regnum RG6V TG Pure Black <br>
+•TP-Link Archer T6E DualBand v
+•LG 27GL850-B NanoIPS HDR10 <br>
+•Linux Fedora 37 <br>
 </p>
 </details>
 
