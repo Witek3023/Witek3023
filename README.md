@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/github-04471c.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=04471c)](https://www.jetbrains.com/pycharm/)
 ![Jupyter](https://img.shields.io/badge/Jupyter-04471c.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-04471c.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-04471c.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) <br>
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-04471c.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chrome/)
 [![firefox](https://img.shields.io/badge/Firefox-04471c.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-04471c?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)</br>
@@ -23,7 +23,7 @@
 [![Fedora](https://img.shields.io/badge/Fedora-0d2818?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Windows](https://img.shields.io/badge/Windows-0d2818?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
-#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with XFCE, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
+#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with Gnome on my PC and Fedora 37 with i3-gaps, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
 
