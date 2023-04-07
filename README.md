@@ -5,14 +5,14 @@
 ###### Photographer and Video Editor.</br>
 ---
 ### Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</br>
-![numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</br>
+[![Python](https://img.shields.io/badge/python-132a13?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Shell Script](https://img.shields.io/badge/shell_script-132a13.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</br>
+![numpy](https://img.shields.io/badge/NumPy-132a13.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-132a13.svg?style=for-the-badge&logo=pandas&logoColor=white)</br>
 
 ### Tools:
 [![GitHub](https://img.shields.io/badge/github-04471c.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=white)](https://www.jetbrains.com/pycharm/)
 ![Jupyter](https://img.shields.io/badge/Jupyter-04471c.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-04471c.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-04471c.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chrome/)
