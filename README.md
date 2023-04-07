@@ -24,7 +24,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0d2818?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
 #### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with Gnome on my PC and Fedora 37 with i3-gaps, <br>
-you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
+#### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
 
