@@ -20,9 +20,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)</br>
 
 ### OS:
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
+[![Fedora](https://img.shields.io/badge/Fedora-#A3BE8C?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Windows](https://img.shields.io/badge/Windows-#A3BE8C?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
 #### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with XFCE, you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
@@ -54,7 +53,6 @@
 ---
 
 ### Connect with me:
-https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white
 [![Reddit](https://img.shields.io/badge/Reddit-2E3440.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Witek3023)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Witek3023)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/923236911584251904)
