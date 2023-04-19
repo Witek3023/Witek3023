@@ -12,8 +12,8 @@
 
 ### Tools:
 [![GitHub](https://img.shields.io/badge/github-e5e9f0?style=for-the-badge&logo=github&logoColor=3b4252)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-e5e9f0?style=for-the-badge&logo=pycharm&logoColor=white&color=3b4252&labelColor=3b4252)](https://www.jetbrains.com/pycharm/)
-![Jupyter](https://img.shields.io/badge/Jupytere5e9f0?style=for-the-badge&logo=Jupyter&logoColor=3b4252)
+[![PyCharm](https://img.shields.io/badge/pycharm-e5e9f0?style=for-the-badge&logo=pycharm&logoColor=3b4252&color=e5e9f0&labelColor=3b4252)](https://www.jetbrains.com/pycharm/)
+![Jupyter](https://img.shields.io/badge/Jupyter-e5e9f0?style=for-the-badge&logo=Jupyter&logoColor=3b4252)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e5e9f0?style=for-the-badge&logo=visual-studio-code&logoColor=3b4252)](https://code.visualstudio.com/) <br>
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-e5e9f0?style=for-the-badge&logo=Google-Chrome&logoColor=3b4252)](https://www.google.com/chrome/)
 [![firefox](https://img.shields.io/badge/Firefox-e5e9f0?style=for-the-badge&logo=Firefox&logoColor=3b4252)](https://www.mozilla.org/en-US/firefox/new/)
