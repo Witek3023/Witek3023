@@ -11,13 +11,13 @@
 ![pandas](https://img.shields.io/badge/pandas-d8dee9?style=for-the-badge&logo=pandas&logoColor=2e3440)</br>
 
 ### Tools:
-[![GitHub](https://img.shields.io/badge/github-04471c.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-04471c?style=for-the-badge&logo=pycharm&logoColor=white&color=04471c&labelColor=04471c)](https://www.jetbrains.com/pycharm/)
-![Jupyter](https://img.shields.io/badge/Jupyter-04471c.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-04471c.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) <br>
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-04471c.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chrome/)
-[![firefox](https://img.shields.io/badge/Firefox-04471c.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-04471c?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)</br>
+[![GitHub](https://img.shields.io/badge/github-e5e9f0?style=for-the-badge&logo=github&logoColor=3b4252)](https://github.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-e5e9f0?style=for-the-badge&logo=pycharm&logoColor=white&color=3b4252&labelColor=3b4252)](https://www.jetbrains.com/pycharm/)
+![Jupyter](https://img.shields.io/badge/Jupytere5e9f0?style=for-the-badge&logo=Jupyter&logoColor=3b4252)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e5e9f0?style=for-the-badge&logo=visual-studio-code&logoColor=3b4252)](https://code.visualstudio.com/) <br>
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-e5e9f0?style=for-the-badge&logo=Google-Chrome&logoColor=3b4252)](https://www.google.com/chrome/)
+[![firefox](https://img.shields.io/badge/Firefox-e5e9f0?style=for-the-badge&logo=Firefox&logoColor=3b4252)](https://www.mozilla.org/en-US/firefox/new/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-e5e9f0?style=for-the-badge&logo=stack-overflow&logoColor=3b4252)](https://stackoverflow.com/)</br>
 
 ### OS:
 [![Fedora](https://img.shields.io/badge/Fedora-0d2818?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
