@@ -55,7 +55,7 @@
 ---
 
 ### Connect with me:
-[![Reddit](https://img.shields.io/badge/Reddit-4f772d.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Witek3023)
-[![Codewars](https://img.shields.io/badge/Codewars-4f772d?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Witek3023)
-[![Discord](https://img.shields.io/badge/Discord-4f772d.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/923236911584251904)
-[![Steam](https://img.shields.io/badge/steam-4f772d.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198894259998/)
+[![Reddit](https://img.shields.io/badge/Reddit-d8dee9?style=for-the-badge&logo=Reddit&logoColor=3b4252)](https://www.reddit.com/user/Witek3023)
+[![Codewars](https://img.shields.io/badge/Codewars-d8dee9?style=for-the-badge&logo=codewars&logoColor=3b4252)](https://www.codewars.com/users/Witek3023)
+[![Discord](https://img.shields.io/badge/Discord-d8dee9?style=for-the-badge&logo=discord&logoColor=3b4252)](https://discordapp.com/users/923236911584251904)
+[![Steam](https://img.shields.io/badge/steam-d8dee9?style=for-the-badge&logo=steam&logoColor=3b4252)](https://steamcommunity.com/profiles/76561198894259998/)
