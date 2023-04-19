@@ -20,8 +20,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-e5e9f0?style=for-the-badge&logo=stack-overflow&logoColor=3b4252)](https://stackoverflow.com/)</br>
 
 ### OS:
-[![Fedora](https://img.shields.io/badge/Fedora-0d2818?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Windows](https://img.shields.io/badge/Windows-0d2818?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Fedora](https://img.shields.io/badge/Fedora-eceff4?style=for-the-badge&logo=fedora&logoColor=2e3440)](https://getfedora.org/)
+[![Windows](https://img.shields.io/badge/Windows-eceff4?style=for-the-badge&logo=windows&logoColor=2e3440)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
 #### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 37 with Gnome on my PC and Fedora 37 with i3-gaps, <br>
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
