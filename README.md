@@ -48,7 +48,7 @@
 •SilentiumPC Regnum RG6V TG Pure Black <br>
 •TP-Link Archer T6E DualBand v
 •LG 27GL850-B NanoIPS HDR10 <br>
-•Linux Fedora 38 <br>
+•Linux Fedora <br>
 </p>
 </details>
 
