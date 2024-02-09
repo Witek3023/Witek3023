@@ -23,7 +23,7 @@
 [![Fedora](https://img.shields.io/badge/Fedora-eceff4?style=for-the-badge&logo=fedora&logoColor=2e3440)](https://getfedora.org/)
 [![Windows](https://img.shields.io/badge/Windows-eceff4?style=for-the-badge&logo=windows&logoColor=2e3440)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
-#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora 38 with Gnome on my PC and Fedora 38 with i3-gaps, <br>
+#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora Workstation on my PC and Arch Linux Qtile on Laptop, <br>
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
@@ -35,7 +35,7 @@
 •NVIDIA GeForce MX150<br>
 •16GB Ram DDR4 2400 MHz<br>
 •512GB M.2 SSD<br>  
-•Linux Fedora 39 Sway spin<br>
+•Arch Linux Qtile<br>
 </pbr>
 •HP E24 G4<br>
 </p>
@@ -53,7 +53,7 @@
 •SilentiumPC Regnum RG6V TG Pure Black <br>
 •TP-Link Archer T6E DualBand v
 •LG 27GL850-B NanoIPS HDR10 <br>
-•Linux Fedora <br>
+•Linux Fedora Workstation<br>
 </p>
 </details>
 
