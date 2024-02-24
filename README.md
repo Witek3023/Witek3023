@@ -51,7 +51,7 @@
 •Gigabyte Radeon RX 6600 XT GAMING OC 8GB GDDR6 <br>
 •SilentiumPC Fera 5 Dual Fan 2x120mm <br>
 •SilentiumPC Regnum RG6V TG Pure Black <br>
-•TP-Link Archer T6E DualBand v
+•TP-Link Archer T6E DualBand <be>
 •LG 27GL850-B NanoIPS HDR10 <br>
 •Linux Fedora Workstation<br>
 </p>
