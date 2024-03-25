@@ -16,6 +16,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-e5e9f0?style=for-the-badge&logo=Jupyter&logoColor=3b4252)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e5e9f0?style=for-the-badge&logo=visual-studio-code&logoColor=3b4252)](https://code.visualstudio.com/) <br>
 [![Emacs](https://img.shields.io/badge/GNU%20Emacs-e5e9f0.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=3b4252)](https://www.gnu.org/software/emacs/)
+[![Neovim](https://img.shields.io/badge/Neovim-e5e9f0.svg?style=for-the-badge&logo=Neovim&logoColor=3b4252)](https://neovim.io/)
 [![firefox](https://img.shields.io/badge/Firefox-e5e9f0?style=for-the-badge&logo=Firefox&logoColor=3b4252)](https://www.mozilla.org/en-US/firefox/new/)<br>
 
 ### OS:
