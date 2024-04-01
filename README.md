@@ -5,23 +5,23 @@
 ###### Photographer and Video Editor.</br>
 ---
 ### Tech Stack:
-[![Python](https://img.shields.io/badge/python-d8dee9?style=for-the-badge&logo=python&logoColor=2e3440)](https://www.python.org/)
-![Shell Script](https://img.shields.io/badge/shell_script-d8dee9?style=for-the-badge&logo=gnu-bash&logoColor=2e3440)</br>
-![numpy](https://img.shields.io/badge/NumPy-d8dee9?style=for-the-badge&logo=NumPy&logoColor=2e3440)
-![pandas](https://img.shields.io/badge/pandas-d8dee9?style=for-the-badge&logo=pandas&logoColor=2e3440)</br>
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+![Shell Script](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)</br>
+![numpy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=ffffff)
+![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)</br>
 
 ### Tools:
-[![GitHub](https://img.shields.io/badge/github-e5e9f0?style=for-the-badge&logo=github&logoColor=3b4252)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-e5e9f0?style=for-the-badge&logo=pycharm&logoColor=3b4252&color=e5e9f0&labelColor=e5e9f0)](https://www.jetbrains.com/pycharm/)
-![Jupyter](https://img.shields.io/badge/Jupyter-e5e9f0?style=for-the-badge&logo=Jupyter&logoColor=3b4252)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e5e9f0?style=for-the-badge&logo=visual-studio-code&logoColor=3b4252)](https://code.visualstudio.com/) <br>
-[![Emacs](https://img.shields.io/badge/GNU%20Emacs-e5e9f0.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=3b4252)](https://www.gnu.org/software/emacs/)
-[![Neovim](https://img.shields.io/badge/Neovim-e5e9f0.svg?style=for-the-badge&logo=Neovim&logoColor=3b4252)](https://neovim.io/)
-[![firefox](https://img.shields.io/badge/Firefox-e5e9f0?style=for-the-badge&logo=Firefox&logoColor=3b4252)](https://www.mozilla.org/en-US/firefox/new/)<br>
+[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff&color=000000&labelColor=000000)](https://www.jetbrains.com/pycharm/)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) <br>
+[![Emacs](https://img.shields.io/badge/GNU%20Emacs-000000.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=ffffff)](https://www.gnu.org/software/emacs/)
+[![Neovim](https://img.shields.io/badge/Neovim-000000.svg?style=for-the-badge&logo=Neovim&logoColor=ffffff)](https://neovim.io/)
+[![firefox](https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=Firefox&logoColor=ffffff)](https://www.mozilla.org/en-US/firefox/new/)<br>
 
 ### OS:
-[![Fedora](https://img.shields.io/badge/Fedora-eceff4?style=for-the-badge&logo=fedora&logoColor=2e3440)](https://getfedora.org/)
-[![Windows](https://img.shields.io/badge/Windows-eceff4?style=for-the-badge&logo=windows&logoColor=2e3440)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ffffff)](https://getfedora.org/)
+[![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
 #### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora Workstation and Sway Spin, <br>
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
@@ -60,7 +60,7 @@
 ---
 
 ### Connect with me:
-[![Reddit](https://img.shields.io/badge/Reddit-d8dee9?style=for-the-badge&logo=Reddit&logoColor=3b4252)](https://www.reddit.com/user/Witek3023)
-[![Codewars](https://img.shields.io/badge/Codewars-d8dee9?style=for-the-badge&logo=codewars&logoColor=3b4252)](https://www.codewars.com/users/Witek3023)
-[![Discord](https://img.shields.io/badge/Discord-d8dee9?style=for-the-badge&logo=discord&logoColor=3b4252)](https://discordapp.com/users/923236911584251904)
-[![Steam](https://img.shields.io/badge/steam-d8dee9?style=for-the-badge&logo=steam&logoColor=3b4252)](https://steamcommunity.com/profiles/76561198894259998/)
+[![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=ffffff)](https://www.reddit.com/user/Witek3023)
+[![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=ffffff)](https://www.codewars.com/users/Witek3023)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discordapp.com/users/923236911584251904)
+[![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198894259998/)
