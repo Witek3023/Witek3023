@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Witek - aka Witek3023 [![Codewars](https://www.codewars.com/users/Witek3023/badges/micro)](https://www.codewars.com/users/Witek3023/badges)
-#### Beginner Python Programmer/Python Data Analyst<br>
-###### Photographer and Video Editor.</br>
+#### Full-time Gnu-Linux user. Currently I'm on Fedora Sway Spin, <br>
+#### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Tech Stack:
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -23,8 +23,6 @@
 [![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ffffff)](https://getfedora.org/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
-#### Full-time Gnu-Linux enjoyer. Currently I'm using Fedora Workstation and Sway Spin, <br>
-#### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Hardware:
 
