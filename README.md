@@ -7,8 +7,6 @@
 ### Tech Stack:
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Shell Script](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)</br>
-![numpy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=ffffff)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)</br>
 
 ### Tools:
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
