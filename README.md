@@ -31,7 +31,7 @@
 •NVIDIA GeForce MX150<br>
 •16GB Ram DDR4 2400 MHz<br>
 •512GB M.2 SSD<br>  
-•Fedora Sway Spin<br>
+•Fedora Qtile<br>
 </pbr>
 •HP E24 G4<br>
 </p>
@@ -49,7 +49,7 @@
 •SilentiumPC Regnum RG6V TG Pure Black <br>
 •TP-Link Archer T6E DualBand <br>
 •LG 27GL850-B NanoIPS HDR10 <br>
-•Linux Fedora Workstation<br>
+•Fedora Qtile<br>
 </p>
 </details>
 
