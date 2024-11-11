@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Witek - aka Witek3023 [![Codewars](https://www.codewars.com/users/Witek3023/badges/micro)](https://www.codewars.com/users/Witek3023/badges)
-#### Full-time Gnu-Linux user. Currently I'm on Fedora KDE spin, <br>
+#### Full-time Gnu-Linux user. Currently I'm on Fedora SWAY spin, <br>
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Tech Stack:
