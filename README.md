@@ -21,40 +21,8 @@
 [![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ffffff)](https://getfedora.org/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 </br>
----
-### Hardware:
-
-<details><summary>Lenovo ThinkPad T480</summary>
-<p>
-•Intel i7-8650U<br>
-•Intel UHD Graphics 620<br>
-•NVIDIA GeForce MX150<br>
-•16GB Ram DDR4 2400 MHz<br>
-•512GB M.2 SSD<br>  
-•Fedora KDE<br>
-</pbr>
-•HP E24 G4<br>
-</p>
-</details>
-
-<details><summary>PC</summary>
-<p>
-•Intel Core i7-10700KF <br>
-•MSI Z490-A PRO <br>
-•Crucial 16GB (2x8GB) 3200MHz CL16 Ballistix Black <br>
-•Kingston 1TB M.2 PCIe NVMe A2000 <br>
-•Kingston 1TB M.2 PCIe Gen4 NVMe NV2 <br>
-•Gigabyte Radeon RX 6600 XT GAMING OC 8GB GDDR6 <br>
-•SilentiumPC Fera 5 Dual Fan 2x120mm <br>
-•SilentiumPC Regnum RG6V TG Pure Black <br>
-•TP-Link Archer T6E DualBand <br>
-•LG 27GL850-B NanoIPS HDR10 <br>
-•Fedora KDE<br>
-</p>
-</details>
 
 ---
-
 ### Connect with me:
 [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=ffffff)](https://www.reddit.com/user/Witek3023)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=ffffff)](https://www.codewars.com/users/Witek3023)
