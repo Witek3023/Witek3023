@@ -5,7 +5,7 @@
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Tech Stack:
-[![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=ffffff)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=ffffff)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Shell Script](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)</br>
 
