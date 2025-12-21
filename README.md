@@ -1,7 +1,7 @@
 <div align="center">
 
 # Witek - aka Witek3023 [![Codewars](https://www.codewars.com/users/Witek3023/badges/micro)](https://www.codewars.com/users/Witek3023/badges)
-#### Gnu-Linux user. Currently on Fedora with Niri wm, <br>
+#### Gnu-Linux user. Currently on Fedora KDE, <br>
 #### you can find my dotfiles [here](https://github.com/Witek3023/DotFiles)</br>
 ---
 ### Tech Stack:
